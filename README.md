@@ -51,9 +51,18 @@ Real-time pronunciation scoring using Fourier Transform:
 
 ## 📱 Screenshots
 
-| Dashboard | Practice Session | R Sound Lab |
-|-----------|-----------------|-------------|
-| Streak hero card, stats, calendar heatmap | Guided exercises with recording animation | Live spectrogram with F3 scoring |
+<div align="center">
+
+### Onboarding & Dashboard
+<img src="images/1.jpeg" width="250"/> <img src="images/2.jpeg" width="250"/> <img src="images/3.jpeg" width="250"/>
+
+### Practice Sessions & R Sound Lab
+<img src="images/4.jpeg" width="250"/> <img src="images/5.jpeg" width="250"/> <img src="images/6.jpeg" width="250"/>
+
+### Statistics & Features
+<img src="images/7.jpeg" width="250"/>
+
+</div>
 
 ---
 
